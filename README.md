@@ -19,6 +19,7 @@ e-mail:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hassle-free GraphQL schema stitching](https://dev.to/stephen/hassle-free-graphql-schema-stitching-d6d)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://example.com

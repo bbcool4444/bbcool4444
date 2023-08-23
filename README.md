@@ -17,6 +17,10 @@ e-mail:
 <br />
 <br />
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://example.com
 [twitter]: https://example.com
 [youtube]: https://example.com

@@ -1,4 +1,4 @@
-### Hi there, I'm Stephen 🤝
+### Hi there, I'm StephenSun(嘉男) 🤝
 
 ## I'm a Husband, Tech Artist, and Gamer!
 - 🔭 I'm currently working on a [Epic Games][https://dev.epicgames.com/community/]
@@ -20,10 +20,6 @@ UE, Blender, Python
 <br />
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Hassle-free GraphQL schema stitching](https://dev.to/stephen/hassle-free-graphql-schema-stitching-d6d)
-<!-- BLOG-POST-LIST:END -->
 
-[website]: https://example.com
-[twitter]: https://example.com
-[youtube]: https://example.com
+[twitter]: https://twitter.com/Stephen08271634
+[youtube]: https://www.youtube.com/@AImagery4444

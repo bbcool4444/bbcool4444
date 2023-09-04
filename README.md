@@ -21,5 +21,6 @@ UE, Blender, Python
 
 # Blog posts
 
-[twitter]: https://twitter.com/Stephen08271634
-[youtube]: https://www.youtube.com/@AImagery4444
+[twitter](https://twitter.com/Stephen08271634)
+<br />
+[youtube](https://www.youtube.com/@AImagery4444)
